@@ -2,9 +2,9 @@
 
 
 <p align="center">
-    <img src="./client/public/MERN.png" alt="mongo" height="100" />
+    <img src="./client/public/mern.png" alt="mongo" height="100" />
 </p>
-<h1 align="center">BOILERPLATE</h1>
+<h1 align="center">TEMPLATE</h1>
 
 This is a boilerplate repo for creating new mern stack apps that doesn't sucks.
 
