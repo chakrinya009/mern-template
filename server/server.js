@@ -27,7 +27,7 @@ connectDB();
 
 //routes
 
-app.use("/users", require(userRoute));
+app.use("/users", userRoute);
 
 app.get("/", (req, res) => {
   res.send("home page");
